@@ -1,2 +1,2 @@
 # css-mixing
-Mixing class names.
+🤓 Mixing class names.
